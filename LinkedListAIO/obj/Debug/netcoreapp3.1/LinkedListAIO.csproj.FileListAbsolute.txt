@@ -1,0 +1,13 @@
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\bin\Debug\netcoreapp3.1\LinkedListAIO.exe
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\bin\Debug\netcoreapp3.1\LinkedListAIO.deps.json
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\bin\Debug\netcoreapp3.1\LinkedListAIO.runtimeconfig.json
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\bin\Debug\netcoreapp3.1\LinkedListAIO.runtimeconfig.dev.json
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\bin\Debug\netcoreapp3.1\LinkedListAIO.dll
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\bin\Debug\netcoreapp3.1\LinkedListAIO.pdb
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\obj\Debug\netcoreapp3.1\LinkedListAIO.csprojAssemblyReference.cache
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\obj\Debug\netcoreapp3.1\LinkedListAIO.csproj.CoreCompileInputs.cache
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\obj\Debug\netcoreapp3.1\LinkedListAIO.AssemblyInfoInputs.cache
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\obj\Debug\netcoreapp3.1\LinkedListAIO.AssemblyInfo.cs
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\obj\Debug\netcoreapp3.1\LinkedListAIO.dll
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\obj\Debug\netcoreapp3.1\LinkedListAIO.pdb
+C:\Users\khoi.nt\source\repos\LinkedListAIO\LinkedListAIO\obj\Debug\netcoreapp3.1\LinkedListAIO.genruntimeconfig.cache
